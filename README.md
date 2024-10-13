@@ -1,2 +1,2 @@
 # Webpage-Books
-A website suggesting books that people should definitely read at least once in their lifetime.
+A webpage suggesting books that people should definitely read at least once in their lifetime.
